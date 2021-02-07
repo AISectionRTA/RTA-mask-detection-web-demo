@@ -9,7 +9,7 @@
 
   <p align="center">
     <br />
-    <a href="https://youtu.be/jWCWUUKgqSc">View Demo</a>
+    <!--<a href="https://youtu.be/jWCWUUKgqSc">View Demo</a>-->
     ·
     <a href="https://github.com/EpicMahmoudSammourRTA/RTA-mask-detection-web-demo/issues">Report Bug</a>
     ·
