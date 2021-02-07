@@ -76,4 +76,7 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 On windows, open the command prompt and navigate to the project directory using CD command, and type the following command
-python -m HTTP.server
+```sh
+   python -m HTTP.server
+   ```
+
